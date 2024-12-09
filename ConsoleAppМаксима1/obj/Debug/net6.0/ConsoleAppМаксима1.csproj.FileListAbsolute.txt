@@ -1,0 +1,15 @@
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\bin\Debug\net6.0\ConsoleAppМаксима1.exe
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\bin\Debug\net6.0\ConsoleAppМаксима1.deps.json
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\bin\Debug\net6.0\ConsoleAppМаксима1.runtimeconfig.json
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\bin\Debug\net6.0\ConsoleAppМаксима1.dll
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\bin\Debug\net6.0\ConsoleAppМаксима1.pdb
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.csproj.AssemblyReference.cache
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.AssemblyInfoInputs.cache
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.AssemblyInfo.cs
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.csproj.CoreCompileInputs.cache
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.dll
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\refint\ConsoleAppМаксима1.dll
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.pdb
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ConsoleAppМаксима1.genruntimeconfig.cache
+C:\Users\warlo\source\repos\ConsoleAppМаксима1\obj\Debug\net6.0\ref\ConsoleAppМаксима1.dll
